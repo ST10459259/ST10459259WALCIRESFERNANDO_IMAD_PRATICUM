@@ -147,3 +147,20 @@ Prevent navigation if critical data is missing.
 - **Kotlin**: Programming language for Android development.
 - **Android SDK**: Tools and libraries for building Android applications.
 - **Android Studio**: Integrated development environment (IDE) for Android.
+
+
+## **Screenshots**
+### 1. **Splash Screen**
+![image](https://github.com/user-attachments/assets/fc39909b-2aea-4e9c-975c-7952f60d19c5)
+
+
+### 2. **Main Screen**
+![image](https://github.com/user-attachments/assets/728ab6f9-9cd3-48e1-9d75-e3fa73cd0dee)
+
+### 3. **Detailed View Screen**
+![image](https://github.com/user-attachments/assets/1fc2511d-0ab2-4050-935a-6fae375776b2)
+
+### **Prerequisites**
+- Android Studio (latest version recommended).
+- Basic knowledge of Android development using Kotlin.
+
